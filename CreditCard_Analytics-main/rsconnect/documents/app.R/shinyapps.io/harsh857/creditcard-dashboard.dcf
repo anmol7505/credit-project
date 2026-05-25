@@ -1,0 +1,10 @@
+name: creditcard-dashboard
+title:
+username: harsh857
+account: harsh857
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16822051
+bundleId: 11666034
+url: https://harsh857.shinyapps.io/creditcard-dashboard/
+version: 1

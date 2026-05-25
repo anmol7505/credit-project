@@ -1,0 +1,12 @@
+name: creditcardanalytics
+title:
+username: harsh857
+account: harsh857
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16821953
+bundleId: 11665958
+url: https://harsh857.shinyapps.io/creditcardanalytics/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
